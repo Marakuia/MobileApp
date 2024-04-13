@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mobile</string>
+    <string name="next">Next</string>
+    <string name="more">More</string>
+    <string name="choose">Choose a language</string>
+    <string name="skip_onboarding">Skip onboarding</string>
+    <string name="kazakh">Kazakh</string>
+    <string name="russian">Russian</string>
+    <string name="english">English</string>
+    <string name="chinese">Chinese</string>
+    <string name="belarus">Belarus</string>
+    <string name="what_is_your_mother_language">What is your mother language?</string>
+    <string name="switch_to_dark">Switch to Dark</string>
+    <string name="switch_to_light">Switch to Light</string>
+    <string name="answer_guess">racoon</string>
+</resources>
